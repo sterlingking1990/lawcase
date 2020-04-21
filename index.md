@@ -10,9 +10,7 @@
 > If only I will stand in front of the man who accuses me of this, then i will have something to say and i will know that he does so accuse me with courage
 >being not afraid of what might come to him as a result of erring against me
 
-###### Hence I made the following step available to help us tackle his case
+###### Hence I made the following step available to help us tackle his case, I will like us to add more also
 
 [ ] He will set his eyes on the man
 [ ] He will not spend a sec in prison until he reaches the court
-
-###### Please ensure to see that any on this is right
