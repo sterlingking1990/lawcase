@@ -16,3 +16,10 @@
 - [ ] He will not spend a sec in prison until he reaches the court
 - [ ] All accusers will come forward for fair hearing
 
+###### Here are list of accusers that has called and wish to stand their claims in the law court, I fyou think they have approached you, please enter the list here, thanks
+
+1.  Damilola Akoja
+2.  Abey Daniels
+3.  Mosho Henry
+
+
