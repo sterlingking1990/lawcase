@@ -12,5 +12,7 @@
 
 ###### Hence I made the following step available to help us tackle his case, I will like us to add more also
 
-[ ] He will set his eyes on the man
-[ ] He will not spend a sec in prison until he reaches the court
+- [ ] He will set his eyes on the man
+- [ ] He will not spend a sec in prison until he reaches the court
+- [ ] All accusers will come forward for fair hearing
+
